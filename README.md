@@ -31,4 +31,5 @@ e.g. public PlayedSongs(int capacity) {
    In this class RecentlyPlayedSongs we are extending this class which means we are inheriting from another class.It means the base class is inheriting attributes and methods from super/parent class. This concept is called as Inheritance in java.
    
    
+   
 
